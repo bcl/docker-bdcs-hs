@@ -1,0 +1,5 @@
+[bdcs-ghc]
+name=BDCS GHC Repository
+baseurl=http://proxy.brianlane.com/bdcs-ghc/
+gpgcheck=0
+enabled=1
